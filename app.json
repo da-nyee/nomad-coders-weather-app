@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Weather App",
     "slug": "my-weather",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Implement the weather app following the course from Nomad Coders.",
+    "githubUrl": "https://github.com/da-nyee/react_native_weather"
   }
 }
