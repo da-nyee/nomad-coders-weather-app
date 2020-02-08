@@ -1,7 +1,7 @@
 ## Weather App Project (Nomad Coders)
 ### Preview
-![weather_app_splash_main1](./img/weather_app_splash_main1.png)
-![weather_app_main2](./img/weather_app_main2.png)
+<p align="center"><img src="./img/weather_app_splash_main1.png" width="650" height="370"></p>
+<p align="center"><img src="./img/weather_app_main2.png" width="650" height="370"></p>
 
 ### Result
 - https://expo.io/@da-nyee/my-weather
